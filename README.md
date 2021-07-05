@@ -4,9 +4,9 @@ Codes related to the paper "Self-Organised Direction Aware Data Partitioning Alg
 
 The package contains:
 
-The original time series data adopted in this paper;
-All SODA-T2FTS python codes;
-A notebook with required codes for anyone interested in replicating the results obtained in this paper.
+1. The original time series data adopted in this paper;
+2. All SODA-T2FTS python codes;
+3. A notebook with required codes for anyone interested in replicating the results obtained in this paper.
 
 Please cite this paper if the code helps.
 
