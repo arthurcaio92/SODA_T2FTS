@@ -1,6 +1,6 @@
 # SODA-T2FTS
 
-Codes related to the paper "Self-Organised Direction Aware Data Partitioning Algorithm Combined With Type-2 Fuzzy Time Series".
+Codes related to the paper "Interval Type-2 Fuzzy Set Based Time Series Forecasting Using a Data-driven Partitioning Approach".
 
 The package contains:
 
